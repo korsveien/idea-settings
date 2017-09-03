@@ -6,5 +6,8 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="NextOccurence" />
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="PreviousOccurence" />
 </keymap>
