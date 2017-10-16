@@ -5,16 +5,6 @@
     <option name="FONT_SCALE" value="1.25" />
     <option name="USE_LIGATURES" value="true" />
   </component>
-  <component name="EditorSettings">
-    <option name="languageBreadcrumbsMap">
-      <map>
-        <entry key="JAVA" value="true" />
-      </map>
-    </option>
-    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
-    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
-  </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
